@@ -9,7 +9,7 @@ module.exports = {
     // 'parallax',
     // 'zoom',
     // 'lazy',
-    // 'controller',
+    'controller',
     'a11y',
     // 'history',
     // 'hash-navigation',
